@@ -58,7 +58,7 @@ public class AgenciaBancaria {
                 break;
 
             case 6:
-                System.out.println("Flw é nóis!");
+                System.out.println("Aprova Nos Epfaninho!");
                 System.exit(0); // para o sistema
 
             default:
